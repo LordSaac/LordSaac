@@ -14,7 +14,7 @@ I’m a Full Stack Developer :crossed_swords: with experiences in design, develo
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/jos%C3%A9-i-guti%C3%A9rrez-b-62a007112/)
 - 📚 &nbsp; When I am free, I read fantasy and fiction novels. Checkout my [Goodreads](https://www.goodreads.com/rahul-jha98) to see the book I have read
 
-<br>
+
 
 ### 🔨 Languages and Tools:
 
